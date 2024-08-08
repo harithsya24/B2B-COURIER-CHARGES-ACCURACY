@@ -23,7 +23,7 @@ ABC's internal data is split across three reports:
 1. **Website Order Report**: Contains order IDs and products (SKUs) for each order.
 2. **Master SKU**: Provides the gross weight of each product.
 3. **Warehouse PIN for All India Pincode Mappings**: Used to determine the delivery area.
-Dataset is taken from: https://statso.io/b2b-ecommerce-fraud-case-study.
+4. **Datasets**:Dataset is taken from: https://statso.io/b2b-ecommerce-fraud-case-study.
 
 Courier companies provide the following billing data:
 1. **Courier Company Invoices**: Includes AWB number, order ID, shipment weight, warehouse pickup PIN, customer delivery PIN, delivery area, charge per shipment, and type of shipment.
